@@ -21,7 +21,6 @@ For requirements regarding module structure: [style-guide-terraform.md](https://
 
 | Name | Version |
 |------|---------|
-| <a name="provider_git"></a> [git](#provider\_git) | n/a |
 | <a name="provider_github"></a> [github](#provider\_github) | ~> 6.2 |
 
 <!-- TFDOCS_PROVIDER_END -->
