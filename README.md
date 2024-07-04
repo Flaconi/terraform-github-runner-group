@@ -9,8 +9,6 @@ Terraform module to manage Action Runner Groups in GitHub organization
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-For requirements regarding module structure: [style-guide-terraform.md](https://github.com/Flaconi/devops-docs/blob/master/doc/conventions/style-guide-terraform.md)
-
 <!-- TFDOCS_HEADER_START -->
 
 
@@ -30,7 +28,7 @@ For requirements regarding module structure: [style-guide-terraform.md](https://
 
 | Name | Version |
 |------|---------|
-| <a name="requirement_terraform"></a> [terraform](#requirement\_terraform) | ~> 1.3 |
+| <a name="requirement_terraform"></a> [terraform](#requirement\_terraform) | >= 1.3 |
 | <a name="requirement_github"></a> [github](#requirement\_github) | ~> 6.2 |
 
 <!-- TFDOCS_REQUIREMENTS_END -->
