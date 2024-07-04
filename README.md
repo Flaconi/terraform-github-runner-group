@@ -93,7 +93,9 @@ Default: `[]`
 <!-- TFDOCS_OUTPUTS_START -->
 ## Outputs
 
-No outputs.
+| Name | Description |
+|------|-------------|
+| <a name="output_group"></a> [group](#output\_group) | Created action runner group |
 
 <!-- TFDOCS_OUTPUTS_END -->
 
